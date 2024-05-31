@@ -31,7 +31,7 @@ export default defineConfig({
     },
 
     editLink: {
-      pattern: 'https://github.com/redot-src/dashboard-docs/edit/master/:path',
+      pattern: 'https://github.com/redot-src/dashboard-docs/edit/master/docs/:path',
     },
 
     search: {
