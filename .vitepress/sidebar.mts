@@ -161,10 +161,6 @@ export default [
         link: '/console/make-entity',
       },
       {
-        text: 'Make Enum',
-        link: '/console/make-enum',
-      },
-      {
         text: 'Make View',
         link: '/console/make-view',
       },
