@@ -44,6 +44,11 @@ export default [
     collapsed: false,
     items: [
       {
+        text: 'Scaffold',
+        link: '/layouts/scaffold',
+      },
+
+      {
         text: 'Dashboard',
         link: '/layouts/dashboard',
       },
