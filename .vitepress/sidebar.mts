@@ -3,6 +3,7 @@ import type { DefaultTheme } from 'vitepress'
 export default [
   {
     text: 'Getting Started',
+    collapsed: false,
     items: [
       {
         text: 'Introduction',
@@ -21,6 +22,7 @@ export default [
 
   {
     text: 'Architecture',
+    collapsed: false,
     items: [
       {
         text: 'Overview',
@@ -39,6 +41,7 @@ export default [
 
   {
     text: 'Layouts',
+    collapsed: false,
     items: [
       {
         text: 'Dashboard',
@@ -53,6 +56,7 @@ export default [
 
   {
     text: 'Components',
+    collapsed: false,
     items: [
       {
         text: 'Introduction',
@@ -87,6 +91,7 @@ export default [
 
   {
     text: 'Forms',
+    collapsed: false,
     items: [
       {
         text: 'Form',
@@ -149,6 +154,7 @@ export default [
 
   {
     text: 'Console',
+    collapsed: false,
     items: [
       {
         text: 'Make Entity',
@@ -175,6 +181,7 @@ export default [
 
   {
     text: 'Traits',
+    collapsed: false,
     items: [
       {
         text: 'CanUploadFile',
@@ -193,6 +200,7 @@ export default [
 
   {
     text: 'Utilities',
+    collapsed: false,
     items: [
       {
         text: 'Themer',
