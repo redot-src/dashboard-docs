@@ -7,6 +7,14 @@ export default [
       {
         text: 'Introduction',
         link: '/getting-started/introduction',
+      },
+      {
+        text: 'Dependencies',
+        link: '/getting-started/dependencies',
+      },
+      {
+        text: 'Code of Conduct',
+        link: '/getting-started/code-of-conduct',
       }
     ],
   },
