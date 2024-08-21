@@ -40,6 +40,10 @@ $settings = setting();
 
 This will return an array of all the settings.
 
+## The `app_name` Helper
+
+Work in progress...
+
 ## The `route_allowed` Helper
 
 `route_allowed` helper is used to check if the current user has access to a route. The helper accepts the route name as the only argument.
@@ -110,3 +114,11 @@ $items = collect_ellipsis([1, 2, 3, 4, 5, 6, 7, 8, 9, 10], 5);
 // Output: 1, 2, 3, 4, 5...
 echo $items->implode(', ');
 ```
+
+## The `format_phone` Helper
+
+Work in progress...
+
+## The `back_or_route` Helper
+
+Work in progress...
