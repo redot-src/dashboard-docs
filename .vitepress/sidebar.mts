@@ -80,12 +80,12 @@ export default [
         link: '/components/empty',
       },
       {
-        text: 'icon',
+        text: 'Icon',
         link: '/components/icon',
       },
       {
-        text: 'Image Hint',
-        link: '/components/image-hint',
+        text: 'File Hint',
+        link: '/components/file-hint',
       },
       {
         text: 'Status',
