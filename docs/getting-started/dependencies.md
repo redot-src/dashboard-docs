@@ -36,8 +36,6 @@ On the client-side, Redot Dashboard uses a few popular libraries to enhance the 
 
 - [Lodash](https://lodash.com/) - Lodash is a modern JavaScript utility library that provides a wide range of functions for working with arrays, objects, strings, and more.
 
-- [Alpine.js](https://alpinejs.dev/) - Alpine.js is a minimal framework for composing JavaScript behavior in your markup. It provides a declarative way to add interactivity to your web applications without the need for a full-fledged JavaScript framework.
-
 - [Font Awesome](https://fontawesome.com/) - Font Awesome is a popular icon library that provides a wide range of icons for use in your web applications.
 
 - [jQuery Confirm](https://craftpip.github.io/jquery-confirm/) - jQuery Confirm is a jQuery plugin that provides a simple way to create beautiful and customizable alert, confirm, and prompt dialogs.
