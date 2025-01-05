@@ -1,7 +1,7 @@
 ---
-title: icon
+title: Icon
 ---
 
-# icon
+# Icon
 
 Work in progress...
