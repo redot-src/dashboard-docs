@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   lang: 'en-US',
-  title: '',
+  title: 'Redot Dashboard',
   description: 'Documentation for the Redot Dashboard Laravel starter kit.',
   cleanUrls: true,
   lastUpdated: false,
